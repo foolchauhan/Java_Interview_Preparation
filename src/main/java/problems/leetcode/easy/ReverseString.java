@@ -1,3 +1,6 @@
+/**
+ * https://leetcode.com/problems/reverse-string/
+ */
 package problems.leetcode.easy;
 
 import java.util.Scanner;
@@ -25,4 +28,3 @@ public class ReverseString {
     }
 }
 
-// a test class to test the above method reverseString  
