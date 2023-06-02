@@ -21,6 +21,7 @@ In Java, when we send primitive data types as argument to a function, it is sent
 PS. - Primitive data types (_int_, _byte_, _short_, _long_, _float_, _double_, _boolean_ and _char_ ). _**They're stored directly on the stack**
 ![[call_by_value.png]]
 <i>Example :: </i>
+
 ```java
 Int x = 10; // Primitive Data
 modify(x); 

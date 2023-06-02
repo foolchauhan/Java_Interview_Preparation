@@ -24,3 +24,5 @@ public class ReverseString {
         return s;
     }
 }
+
+// a test class to test the above method reverseString  
