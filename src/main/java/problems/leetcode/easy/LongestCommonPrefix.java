@@ -5,7 +5,6 @@
  */
 package problems.leetcode.easy;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class LongestCommonPrefix {
